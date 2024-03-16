@@ -1,6 +1,6 @@
-# py-grid
+# cli-grid
 
-py-grid is a simple Python package for creating, managing, and visualizing grids.
+cli-grid is a simple Python package for creating, managing, and visualizing grids.
 
 This library allows you to create a grid with any number of rows and columns. Each cell in the grid can then be accessed and updated. By default, a visual representation of the grid can be displayed, but this can be disabled.
 

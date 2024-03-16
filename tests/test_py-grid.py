@@ -1,5 +1,5 @@
 import pytest
-from ..src.py_grid import Grid
+from ..src.cli_grid import Grid
 
 @pytest.fixture
 def grid():

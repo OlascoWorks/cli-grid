@@ -1,5 +1,5 @@
 [project]
-name = "py-grid"
+name = "cli-grid"
 version = "0.0.1"
 authors = [
   { name="Sam", email="samuelayodeji2478@gmail.com" },
@@ -14,5 +14,5 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/olascoWorks/py-grid"
-Issues = "https://github.com/olascoWorks/py-grid/issues"
+Homepage = "https://github.com/olascoWorks/cli-grid"
+Issues = "https://github.com/olascoWorks/cli-grid/issues"
