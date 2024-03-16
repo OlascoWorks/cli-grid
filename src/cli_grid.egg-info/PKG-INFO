@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: cli-grid
+Version: 0.0.1
+Summary: A simple python package for generating, managing and visualizing grids
+Author-email: Sam <samuelayodeji2478@gmail.com>
+Project-URL: Homepage, https://github.com/olascoWorks/cli-grid
+Project-URL: Issues, https://github.com/olascoWorks/cli-grid/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENCE
+
 # cli-grid
 
 cli-grid is a simple Python package for creating, managing, and visualizing grids.
@@ -9,7 +23,7 @@ This library allows you to create a grid with any number of rows and columns. Ea
 To start, simply initialize the library like so:
 
 ```python
-from cli_grid import Grid
+from py_grid import Grid
 
 grid = Grid()
 ```
